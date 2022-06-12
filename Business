@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T07:56:07.730Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="cwoZy2JqKnnd8I42g_71" version="20.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-12T07:59:07.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DMFTFSOk45nGSwxQY5I1" version="20.0.0" type="github">
   <diagram id="3R3c_3M5BR77CloPigLM" name="Page-1">
     <mxGraphModel dx="1426" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -238,6 +238,18 @@
         </mxCell>
         <mxCell id="fB2iuFVF8PGDz7OT-b0Q-81" value="公里数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="802" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fB2iuFVF8PGDz7OT-b0Q-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="fB2iuFVF8PGDz7OT-b0Q-84" target="fB2iuFVF8PGDz7OT-b0Q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fB2iuFVF8PGDz7OT-b0Q-84" value="月供应量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fB2iuFVF8PGDz7OT-b0Q-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="fB2iuFVF8PGDz7OT-b0Q-85" target="fB2iuFVF8PGDz7OT-b0Q-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fB2iuFVF8PGDz7OT-b0Q-85" value="月计划数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="80" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
